@@ -1,0 +1,24 @@
+img.snow {
+
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+  width: 100%;
+
+}
+
+h1 {
+  color: #2ebdbd;
+}
+
+p, h3 {
+  color: #a31440;
+}
+
+body {
+  background-color: #314d5b; 
+  background-image: url("https://media.giphy.com/media/26BRyql7J3iOx875u/giphy.gif");
+  background-repeat: repeat;
+  background-repeat: round;
+}
